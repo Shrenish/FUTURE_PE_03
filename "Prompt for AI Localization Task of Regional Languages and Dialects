@@ -1,0 +1,24 @@
+"Prompt for AI Localization Task of Regional Languages and Dialects :
+
+"Your task is to localize the provided text into the specified regional languages of India, ensuring that the translation is culturally relevant and resonates with native speakers. Focus on incorporating authentic idioms, slang, and expressions that reflect the nuances of each language. The languages to be localized are Hindi, Tamil, Bengali, Marathi, and Telugu. 
+
+1. *Analyze the Source Text*: Read the provided text carefully and identify key themes, tone, and context.
+  
+2. *Language Specifics*: For each language, consider the following:
+   - Common idioms and phrases that native speakers would use.
+   - Cultural references that are appropriate and relatable to the target audience.
+   - Slang and informal expressions that convey the intended meaning effectively.
+
+3. *Translation Process*:
+   - Translate the text while maintaining the original meaning and intent.
+   - Replace standard expressions with local idioms where applicable.
+   - Ensure that the tone matches the target audience—whether formal, informal, humorous, etc.
+
+4. *Quality Check*: After localization, review the translated text for:
+   - Grammatical accuracy.
+   - Natural flow and readability.
+   - Cultural appropriateness.
+
+5. *Output Format*: Present your localized text in a clear format, indicating the language for each translation. Include annotations for any idioms or slang used to enhance understanding.
+
+Please proceed with the localization for the following text: [Insert source text here]."
